@@ -2,3 +2,4 @@
 .env/
 .vscode/
 .gitignore/
+secret.txt
